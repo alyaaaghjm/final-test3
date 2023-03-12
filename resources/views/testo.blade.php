@@ -16,3 +16,6 @@
 
 
 </html>
+<?php
+echo $name;
+?>
