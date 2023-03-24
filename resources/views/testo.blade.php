@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-
-<html>
+<html lang="en">
 
 
 <head>
 
 </head>
 <body>
-<h1> hello</h1>
-<?php
-echo $name;
-?>
+<h1>hello world .....</h1>
+    <?php
+    echo $name;
+    
+    ?>
 </body>
 
 
