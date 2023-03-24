@@ -8,7 +8,7 @@ Route::get('/', function () {
 
 });
 Route :: get('testo' , function(){
-    $name = 'ola';
+    $name = 'ola baraka';
     return view('testo' ,compact('name'));
 });
 
