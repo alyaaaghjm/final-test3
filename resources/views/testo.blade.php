@@ -9,13 +9,13 @@
 </head>
 <body>
 <h1> hello</h1>
-
+<?php
+echo $name;
+?>
 </body>
 
 
 
 
 </html>
-<?php
-echo $name;
-?>
+
